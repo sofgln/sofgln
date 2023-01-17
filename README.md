@@ -8,13 +8,11 @@
     <a href="https://twitter.com/sofiscoding">
         <img src="https://img.shields.io/twitter/follow/sofiscoding?logo=twitter&style=for-the-badge" alt="twitter badge" srcset="">
         
-    </a>
-    <a href="https://www.linkedin.com/in/sofiagolnner/">
-        <img src="https://img.shields.io/endpoint?color=blue&label=linkedin&logo=linkedin&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsofiagolnner%2F" alt="twitter badge" srcset="">
-
-    </a>
+   
 </div>
+
 ---
+
 ### (❁´◡`❁)About me ☆*: .｡. o(≧▽≦)o .｡.:*☆
 - 🍧 I’m currently working on upgrade my skills everyday
 - 🌱 I’m currently learning JavaScript and Typescript, C#, Angular, .NET, MySql and Python.
@@ -46,7 +44,7 @@
 
 ![Sof's GitHub stats](https://github-readme-stats.vercel.app/api?username=sofgln&show_icons=true&theme=tokyonight)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sofgln&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <div id="header" align="center">
     
