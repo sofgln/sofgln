@@ -25,7 +25,7 @@
 
 
 <div align="left">
-    <h3> 👩🏽‍💻languajes and tools</h3>
+    <h3> 👩🏽‍💻languages and tools</h3>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="" width="40" height="40">
