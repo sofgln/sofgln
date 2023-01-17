@@ -49,7 +49,9 @@
 ---
 
   ### 🍓Bye Bye🍓
-     <iframe src="https://giphy.com/embed/geuXiMq0MNqfAyxS7b" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/applemusic-taylor-swift-awards-apple-music-geuXiMq0MNqfAyxS7b">via GIPHY</a></p>
+   
+  ![bye](https://media.giphy.com/media/geuXiMq0MNqfAyxS7b/giphy.gif)
+    
     
     
 
