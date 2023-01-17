@@ -49,7 +49,7 @@
 
 
   ### 🍓Bye Bye🍓
-    <img src="https://media.giphy.com/media/geuXiMq0MNqfAyxS7b/giphy.gif" align="left"/>
+    <img src="https://media.giphy.com/media/xT1R9NHA3wVmBDci5i/giphy.gif" align="left"/>
     
     
 
