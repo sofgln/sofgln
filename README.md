@@ -40,8 +40,7 @@
 </div>
 
 ---
-
-    ### My stats ✨
+### My stats ✨
 [![GitHub Streak](https://streak-stats.demolab.com?user=sofgln&theme=blueberry&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ![Sof's GitHub stats](https://github-readme-stats.vercel.app/api?username=sofgln&show_icons=true&theme=tokyonight)
