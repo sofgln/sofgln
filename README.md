@@ -41,7 +41,7 @@
 
 ---
 
-    ###My stats ✨
+    ### My stats ✨
 [![GitHub Streak](https://streak-stats.demolab.com?user=sofgln&theme=blueberry&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ![Sof's GitHub stats](https://github-readme-stats.vercel.app/api?username=sofgln&show_icons=true&theme=tokyonight)
@@ -50,7 +50,7 @@
 
 <div id="header" align="center">
     
-    <h3 align="center">🍓Bye Bye🍓</h1>
+    <h3 align="center">🍓Bye Bye🍓</h3>
     <img src="https://media.giphy.com/media/geuXiMq0MNqfAyxS7b/giphy.gif" >
     
 </div>
