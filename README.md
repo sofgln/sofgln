@@ -46,10 +46,10 @@
 ![Sof's GitHub stats](https://github-readme-stats.vercel.app/api?username=sofgln&show_icons=true&theme=tokyonight)
 
 
-
+---
 
   ### 🍓Bye Bye🍓
-     <img src="https://media.giphy.com/media/lVeBRVBUulYwlJ82p9/giphy.gif" width="200">
+     <iframe src="https://giphy.com/embed/geuXiMq0MNqfAyxS7b" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/applemusic-taylor-swift-awards-apple-music-geuXiMq0MNqfAyxS7b">via GIPHY</a></p>
     
     
 
