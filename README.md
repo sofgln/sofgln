@@ -20,6 +20,8 @@
 - 📲 You can contact me! Here's my e-mail: so.golnner@gmail.com
 - 🎨 I'm also interested in UX-UI design
 - 🌑 Fun fact: I love Taylor Swift.
+    
+    
 -->
 
 <div align="left">
