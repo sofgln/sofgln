@@ -49,7 +49,8 @@
 
 <div id="footer" align="center">
     
-    <h3 align="center">🍓Bye Bye🍓</h3>
-    <img src="https://media.giphy.com/media/geuXiMq0MNqfAyxS7b/giphy.gif" >
+    ### 🍓Bye Bye🍓
+    <img src="https://media.giphy.com/media/lVeBRVBUulYwlJ82p9/giphy.gif" width="200">
+    
     
 </div>
