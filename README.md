@@ -47,7 +47,7 @@
 
 
 
-<div id="header" align="center">
+<div id="footer" align="center">
     
     <h3 align="center">🍓Bye Bye🍓</h3>
     <img src="https://media.giphy.com/media/geuXiMq0MNqfAyxS7b/giphy.gif" >
