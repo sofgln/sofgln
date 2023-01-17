@@ -47,10 +47,9 @@
 
 
 
-<div id="footer" align="center">
+
+  ### 🍓Bye Bye🍓
+    ![BYE](https://media.giphy.com/media/geuXiMq0MNqfAyxS7b/giphy.gif)
     
-    ### 🍓Bye Bye🍓
-    <img src="https://media.giphy.com/media/lVeBRVBUulYwlJ82p9/giphy.gif" width="200">
     
-    
-</div>
+
