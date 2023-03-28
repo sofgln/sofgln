@@ -2,7 +2,7 @@
     <img src="https://media.giphy.com/media/lVeBRVBUulYwlJ82p9/giphy.gif" width="200">
     <h1 align="center">🍓Hi, I'm Sofía 🍓</h1>
     <h3 align="center">I'm an enthusiast IT student from Buenos Aires, Argentina. 
-        I like to learn about web development by myself but I am also studying degrees: Web development and applications at ISPC and software development at IFTS 29 </h3>
+        I like to learn about web development by myself but I am also studying degrees: Web development and applications at ISPC  </h3>
 </div>
 <div id = "badges" align="center">
     <a href="https://twitter.com/sofiscoding">
@@ -19,7 +19,7 @@
 - 🌺 I seek to collaborate on projects full of creativity with diverse and interdisciplinary teams
 - 📲 You can contact me! Here's my e-mail: so.golnner@gmail.com
 - 🎨 I'm also interested in UX-UI design
-- 🌑 Fun fact: I love Taylor Swift.
+- 🌑 important fact: I love Taylor Swift.
     
     
 
